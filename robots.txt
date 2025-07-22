@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bets.betano365.online/sitemap.xml
